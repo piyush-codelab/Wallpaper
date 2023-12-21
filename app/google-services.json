@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "403491420866",
+    "project_id": "wallpaper-ad9a9",
+    "storage_bucket": "wallpaper-ad9a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403491420866:android:c622dc7fd34fdfe5eed95b",
+        "android_client_info": {
+          "package_name": "com.task.mywallpaper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHuGlhODkozarCBGerXte0eO6sT1MLqeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
